@@ -1,0 +1,15 @@
+.line {
+    width:50%;
+    height:10px;
+    background-color: black;
+    margin:10px;
+}
+
+.image {
+    width:480px;
+    height:360px;
+}
+
+body {
+    text-align: center;
+}
